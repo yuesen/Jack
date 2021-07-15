@@ -1,0 +1,122 @@
+1.接口自动化测试：https://www.jianshu.com/p/27f3510b2877
+
+2.分布式压力测试
+
+3.压测数据库
+
+4.用Appscan对一些sql注入、xss脚本攻击、csrf跨站脚本伪造进行安全测试    安全测试，渗透测试。安全测试看一下
+
+5.mockserver对数据库进行增删改查来进行测试
+
+6.如果会jemter性能，压力，python自动化（ui，接口），mock，log技术，docker，jenkins
+
+7.selenium用例失败截图
+
+8.爬虫基础，beautifulsoup解析，tr那些东西
+
+9.Seldom，与selenium自动化测试框架
+
+10.yaml文件，配置文件
+
+11.压力测试看内存使用率
+
+12.单接口和多接口压力测试，前端压力测试
+
+13.负载均衡
+
+14.分布式压测：https://www.cnblogs.com/puresoul/p/4844539.html
+
+15.yolo检测（舌头，人舌头，狗舌头），efficationnet分类（淡红舌，淡白舌）
+
+16.图片的接口测试。工具和代码，直接发请求
+
+17.python上传图片的接口自动化测试，jmeter上传图片的接口自动化，jmeter压力测试上传图片，图舌诊模型  
+
+18.tomcat 与 nginx，apache的区别是什么？ https://www.zhihu.com/question/32212996
+
+19.jmeter图片接口压力测试https://www.jianshu.com/p/51bb8d6be280
+
+20.Meter AI图片识别接口并发量测试https://www.cnblogs.com/xjx767361314/p/10882163.html
+
+21.图片接口测试https://blog.csdn.net/minzhung/article/details/102952183
+
+22.jmeter检查点的使用，报告分析，宏
+
+23.jmeter正则表达式练习https://blog.csdn.net/vikeyyyy/article/details/80437530      https://www.cnblogs.com/zhangyqn/p/11820465.html
+
+24.c) 通过后置处理器生成的变量：Jmeter关联        d)使用csv参数化的变量：Jmeter参数化        关联就是请求与请求之间存在数据依赖关系，需要从上一个请求获取下一个请求需要回传回去的数据
+
+
+26.https://blog.csdn.net/doubledog1112/article/details/93480458    jmeter正则表达式的玩法
+
+27.jmeter正则学习：
+（1）引用名称：下一个请求要引用的参数名称，如填写title，则可用${title}引用它。
+
+　　（2）正则表达式：
+
+　　　　() ：括起来的部分就是要提取的。
+　　　　.  ：匹配任何字符串。
+　　　　+ ：一次或多次。
+　　　　?  ：不要太贪婪，在找到第一个匹配项后停止。
+　　（3）模板：用$$引用起来，如果在正则表达式中有多个正则表达式，则可以是$2$$3$等等，表示解析到的第几个值给title。如：$1$表示解析到的第1个值
+
+　　（4）匹配数字：0代表随机取值，1代表全部取值，通常情况下填0
+
+　　（5）缺省值：如果参数没有取得到值，那默认给一个值让它取。
+
+28.正则取多个值：https://www.cnblogs.com/tudou-22/p/9566894.html
+
+29.集合点：https://zhuanlan.zhihu.com/p/97573238      
+
+30.jdbc数据库慢查询啥的    https://www.bilibili.com/video/av884495377/   https://jingyan.baidu.com/article/f96699bbf5d092894e3c1b87.html
+https://www.cnblogs.com/sunny-sl/p/7717921.html
+
+31.抓包：Fiddler和Charles的功能大同小异，基本上都是抓包、断点调试、请求替换、构造请求、代理功能
+
+32.Jenkins+jmeter生成可视化报告 https://blog.csdn.net/qq_39720249/article/details/84951058
+
+33.自动化测试+Jenkins部署
+
+34.jmeter性能报告结果分析，瓶颈，优化建议等
+
+35.https://www.cnblogs.com/lizm166/p/8670146.html jmeter学习
+
+36.自动化测试socket协议那些东西
+
+37.添加了多个线程组，是怎么进行工作的
+
+38.https://www.cnblogs.com/xiaoxiaoxuepiao/p/9057211.html 性能分析报告
+
+39.jenkins + selenium https://blog.csdn.net/qq_22003641/article/details/79130992
+
+40.Github，jenkins，docker， jmeter+ant
+
+41.数据库存储过程的学习
+
+42.网络安全，渗透测试
+
+43.pytest测试框架    https://blog.csdn.net/weixin_39430584/article/details/95052202
+
+44.https://www.cnblogs.com/web424/p/7521098.html   持续集成
+
+45.python中类方法，类实例方法，静态方法有啥区别
+
+46.https://www.cnblogs.com/fanxiang/p/14507735.html   docker学习教程
+
+47. https://www.bilibili.com/video/BV1B5411E7AH?p=4   docker学习教程
+
+48.logger库
+
+49.https://zhuanlan.zhihu.com/p/93436925   解决github访问过慢的问题
+
+50.https://www.cnblogs.com/du-hong/p/9921214.html  github添加文件的方法
+
+51.https://zhuanlan.zhihu.com/p/74989339    git流程梳理
+
+
+
+
+
+
+
+
